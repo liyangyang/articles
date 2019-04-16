@@ -1,0 +1,2 @@
+Diving Into Bytecode Manipulation: Creating an Audit Log With ASM and Javassist
+	https://blog.newrelic.com/engineering/diving-bytecode-manipulation-creating-audit-log-asm-javassist/
