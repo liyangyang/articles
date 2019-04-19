@@ -2,3 +2,8 @@ Diving Into Bytecode Manipulation: Creating an Audit Log With ASM and Javassist
 	https://blog.newrelic.com/engineering/diving-bytecode-manipulation-creating-audit-log-asm-javassist/
 Byte Buddy – runtime code generation for the JVM
 	https://news.ycombinator.com/item?id=9144375
+javassist
+	https://www.javassist.org/tutorial/tutorial.html
+cglib
+	http://jnb.ociweb.com/jnb/jnbNov2005.html
+	http://mydailyjava.blogspot.com/2013/11/cglib-missing-manual.html
